@@ -1,19 +1,4 @@
 # sample
 
-sfas
-f
-asF
-Asf
-asF
 
-
-ADDED FROM SAMPLE2
-AS
-fasF
-
-
-
-ADDED FROM SAMPLE1
-AJGHADJSG
-
-SADGSDAGASDG
+NEW MERGE
